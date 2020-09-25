@@ -1,4 +1,4 @@
-# TrueAccord: Re-thinking the Debt-Collection Industry
+# TrueAccord: Debt-Collection for the 21st Century
 
 ## Overview and Origin:
 
@@ -23,9 +23,9 @@ The jovial nature that TrueAccord takes when contacting its customers is clear, 
 
 According to StackShare.io, in order to accomplish this machine learning technology, TrueAccord utilizes programming languages like Python and Java, as well as the jQuery JavaScript library and the AngularJS framework.  According to the TrueAccord website, the collections strategy is driven by Heartbeat, an “artificial intelligence program that uses machine learning and hard-coded legal compliance to communicate with customers.”
 
-There is no debate about the massize size of the debt-collection market: according to Debt.org, after hitting its peak at $1.028 trillion in 2008, the credit card debt market has remained relatively level at $840 billion since 2011; that is an average credit card debt of $8,400 per American household.  The credit card debt market, which TrueAccord specifically targets, is only a fraction of the total US consumer debt market, which stands at $13.86 trillion and is comprised of credit card debt, mortgages,  auto loans, and more.  Even more, according to an article on Medium.com written by co-founder Nadav Samet himself, more than 77 million US consumers deal with collections every year.  
+There is no debate about the massive size of the debt-collection market: according to Debt.org, after hitting its peak at $1.028 trillion in 2008, the credit card debt market has remained relatively level at $840 billion since 2011; that is an average credit card debt of $8,400 per American household.  The credit card debt market, which TrueAccord specifically targets, is only a fraction of the total US consumer debt market, which stands at $13.86 trillion and is comprised of credit card debt, mortgages,  auto loans, and more.  Even more, according to an article on Medium.com written by co-founder Nadav Samet himself, more than 77 million US consumers deal with collections every year.  
 
-To accomodate this increased demand in debt-collection software, the debt-collection software market is expected to grow from $2.9 billion in 2019 to $4.6 billion by 2024, as the need for companies to automate collections processes and enhance customer experience continues to increase; TrueAccord is in good position to lead the charge.
+To accommodate this increased demand in debt-collection software, the debt-collection software market is expected to grow from $2.9 billion in 2019 to $4.6 billion by 2024, as the need for companies to automate collections processes and enhance customer experience continues to increase; TrueAccord is in good position to lead the charge.
 ***
 
 ## Landscape:

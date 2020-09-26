@@ -1,5 +1,7 @@
 # TrueAccord: Debt Collection for the 21st Century
 
+! [Logo] (https://images.app.goo.gl/SmRuX8JWZYZfaKkY9)
+
 ## Overview and Origin:
 
 TrueAccord, founded in 2013 by CEO Ohad Samet and CIO Nadav Samet and based out of San Francisco, is revolutionizing the debt collection industry.  Their mission is simple: enhance the debt collection process for both enterprises and consumers alike by replacing traditional collection methods, like cold-calling and sending debt collectors, with more modern forms of communication, like texts and push notifications, with the intention of increasing payback rates and ultimately helping to relieve the consumer of debt.  TrueAccord automates the debt collection process, eliminating the need for costly, cumbersome, unpleasant collection agencies.

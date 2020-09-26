@@ -1,6 +1,6 @@
 # TrueAccord: Debt Collection for the 21st Century
 
-! [Logo](https://images.app.goo.gl/SmRuX8JWZYZfaKkY9)
+![Logo](test/true.png)
 
 ## Overview and Origin:
 
